@@ -1,0 +1,2 @@
+THRES=0.55
+BLOCKS=8
