@@ -15,4 +15,6 @@ CHOOSE IMAGE in path = glob.glob("./TESTS/1920x1080/test1_fake.jpg") (I GAVE SOM
 RUN IT) ENJOY)
 
 *By the way, You should give BLOCK size of course
+
 (IF YOU NEED MY FINAL PAPER CONTACT ME WITH TELEGRAM @bonny_up is my USERNAME OR SEND MESSAGE IN EMAIL)
+
