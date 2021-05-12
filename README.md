@@ -9,12 +9,15 @@ inconsistency is a reliable and effective proof of image structure, and extends 
 light source mapping.
 
 SO FIRST THING YOU SHOULD DO IS
+
 OPEN PYCHARM
+
 INSTALL REQUIREMENTS TO YOUR VIRTUAL ENVIRONMENT
+
 CHOOSE IMAGE in path = glob.glob("./TESTS/1920x1080/test1_fake.jpg") (I GAVE SOME PICTURES)
 RUN IT) ENJOY)
 
-*By the way, You should give BLOCK size of course
+*By the way, You should give BLOCK size of course when you run the code
 
 (IF YOU NEED MY FINAL PAPER CONTACT ME WITH TELEGRAM @bonny_up is my USERNAME OR SEND MESSAGE IN EMAIL)
 
